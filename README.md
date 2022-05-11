@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chinqi
 - 👀 I’m interested in blockchain, compiler
 - 🌱 I’m currently learning haskell, functional programming
-- 💞️ I’m looking to collaborate on blockchain engineer
+- 💞️ I’m looking to collaborate on blockchain
 
 <!---
 chinqi/chinqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
